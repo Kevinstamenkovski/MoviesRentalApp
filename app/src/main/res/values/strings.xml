@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StamenkovskiKevin</string>
+    <string-array name="rent_time">
+        <item>5 Days</item> <!-- 3$-->
+        <item>1 Week</item><!-- 5$-->
+        <item>2 Weeks</item><!-- 9$-->
+        <item>3 Weeks</item><!-- 13$-->
+        <item>1 Month</item><!-- 17$-->
+    </string-array>
+</resources>
