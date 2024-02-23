@@ -14,7 +14,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:orientation="horizontal">
-
         <Button
             android:id="@+id/buttonYes"
             android:layout_width="0dp"
