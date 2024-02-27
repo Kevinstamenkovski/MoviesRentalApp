@@ -16,7 +16,6 @@ public class Movies {
     public void setTitle(String title) {
         this.title = title;
     }
-
     public int getReleaseDate() {
         return releaseDate;
     }
