@@ -1,7 +1,6 @@
 package app.netlify.stamenkovskikevin;
 
 import java.util.ArrayList;
-
 public class Movies {
     private String title;
     private int releaseDate;
