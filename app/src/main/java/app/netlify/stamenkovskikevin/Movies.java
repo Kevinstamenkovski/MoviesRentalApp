@@ -11,7 +11,6 @@ public class Movies {
         this.releaseDate = releaseDate;
         this.movieGenre = movieGenre;
     }
-
     public String getTitle() {
         return title;
     }
