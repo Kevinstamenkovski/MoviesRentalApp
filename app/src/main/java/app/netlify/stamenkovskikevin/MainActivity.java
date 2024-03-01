@@ -14,7 +14,6 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 
 
-
     private EditText editTextUsername;
     private EditText editTextPassword;
     private Button buttonCreateUser;
