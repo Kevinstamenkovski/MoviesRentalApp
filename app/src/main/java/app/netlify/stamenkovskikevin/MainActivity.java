@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
                 createUser();
             }
         });
-
         Button buttonExitApp = findViewById(R.id.buttonExitApp);
         buttonExitApp.setOnClickListener(new View.OnClickListener() {
             @Override
