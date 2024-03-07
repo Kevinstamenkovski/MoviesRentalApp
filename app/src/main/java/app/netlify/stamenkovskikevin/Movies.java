@@ -24,7 +24,6 @@ public class Movies {
     public String getMovieGenre() {
         return movieGenre;
     }
-
     public void setMovieGenre(String movieGenre) {
         this.movieGenre = movieGenre;
     }
